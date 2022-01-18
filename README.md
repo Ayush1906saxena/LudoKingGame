@@ -9,7 +9,7 @@ This game is made using Java AWT Framework. It is a clone of a traditional ludo 
 ## Documentation
 
 In order to run this game on your operating system all you need to do is
-to run the "setup/ludo.jar" file.
+to download the project and then run the "setup/ludo.jar" file.
 
 In order to using this game as a program and run it using your 
 IDE, you need to follow these steps
